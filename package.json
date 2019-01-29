@@ -1,0 +1,19 @@
+{
+  "name": "interpret-example",
+  "version": "1.0.0",
+  "description": "dubbo2js 翻译师, 示例",
+  "main": "index.js",
+  "scripts": {
+    "test": "java init",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creasy2010/interpret-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creasy2010/interpret-example/issues"
+  },
+  "homepage": "https://github.com/creasy2010/interpret-example#readme"
+}
