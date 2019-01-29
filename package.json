@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "mvn": "cd java/dubbo-demo/dubbo-demo-api && mvn install  && mvn package && mvn install dependency:copy-dependencies",
-    "to":"interpret -c dubbo.json"
+    "to": "interpret -c dubbo.json"
   },
   "repository": {
     "type": "git",
